@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">IdentificadorTexto</string>
+    <string name="label_placa_identificada">Placa identificada:</string>
+</resources>
